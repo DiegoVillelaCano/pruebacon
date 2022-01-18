@@ -1,0 +1,27 @@
+{
+  "name": "ug-isan",
+  "version": "1.0.0",
+  "description": "## TEST",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitzepx01/UG-ISAN.git"
+  },
+  "keywords": [],
+  "author": "Lucia Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitzepx01/UG-ISAN/issues"
+  },
+  "homepage": "https://github.com/mitzepx01/UG-ISAN#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
